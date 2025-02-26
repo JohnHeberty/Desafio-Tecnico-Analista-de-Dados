@@ -1,0 +1,6 @@
+google-cloud-bigquery
+psycopg2-binary
+matplotlib
+pandas-gbq
+db-dtypes
+tqdm
