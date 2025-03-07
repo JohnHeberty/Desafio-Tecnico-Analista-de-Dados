@@ -170,5 +170,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 # *.csv
-*.zip
+# *.zip
+# *.7z
 /pipelines_rj_smtr/
